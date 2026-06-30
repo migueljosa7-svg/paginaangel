@@ -1,0 +1,188 @@
+{
+  "profile": {
+    "name": "Ángel Lamenca",
+    "surname": "Manzano",
+    "role": "Especialista en Piedra Natural",
+    "subtitle": "Comercial autónomo · Piedra de Calatorao · Zaragoza",
+    "location": "Calatorao, Zaragoza",
+    "email": "angel.lamenca@gmail.com",
+    "phone": "+34 976 607 830",
+    "bio": "Soy Ángel Lamenca Manzano, especialista comercial en piedra natural con más de 35 años de experiencia en el sector de la extracción y suministro de piedra ornamental. Trabajo directamente con la Piedra de Calatorao, una caliza negra aragonesa de alta dureza y singular belleza, prescribiéndola y suministrándola para obras de urbanismo, edificación residencial, rehabilitación histórica y espacios comerciales en toda la provincia de Zaragoza y alrededores.",
+    "bio2": "He asesorado a arquitectos, constructoras y ayuntamientos en la selección del material, el acabado superficial y los formatos más adecuados para cada proyecto, desde el primer contacto hasta el seguimiento en obra. Si necesitas piedra natural de calidad con asesoramiento técnico, estoy aquí para ayudarte.",
+    "tags": [
+      "Prescripción técnica",
+      "Piedra de Calatorao",
+      "Pavimentos",
+      "Fachadas",
+      "Urbanismo",
+      "Más de 35 años de experiencia"
+    ],
+    "whatsapp": "34976607830",
+    "linkedin": "https://www.linkedin.com/in/%C3%A1ngel-lamenca-manzano-851721307/"
+  },
+  "stone": {
+    "title": "Piedra de Calatorao",
+    "subtitle": "El material",
+    "description": "La Piedra de Calatorao es una caliza negra extraída en el municipio de Calatorao, Zaragoza. Destaca por su color negro intenso con finas vetas blancas, su alta dureza (comparable a un granito) y su gran inercia térmica. Es un material 100% aragonés, con una historia de uso en pavimentos, fachadas y mobiliario urbano de la ciudad de Zaragoza.",
+    "finishes": [
+      {
+        "name": "Pulido Espejo",
+        "desc": "Realza el color negro y las vetas blancas. Ideal para interiores de alto tráfico."
+      },
+      {
+        "name": "Apomazado Mate",
+        "desc": "Acabado satinado, antirreflectante. Perfecto para fachadas y vestíbulos."
+      },
+      {
+        "name": "Abujardado",
+        "desc": "Textura rugosa antideslizante. Idóneo para exteriores, plazas y aceras."
+      },
+      {
+        "name": "Envejecido / Cepillado",
+        "desc": "Aspecto rústico con mayor resistencia. Muy utilizado en restauraciones históricas."
+      }
+    ],
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80"
+  },
+  "categories": [
+    "Todos",
+    "Urbanismo",
+    "Residencial",
+    "Edificación",
+    "Rehabilitación"
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Paseo de la Independencia",
+      "category": "Urbanismo",
+      "location": "Zaragoza Centro",
+      "year": "2018",
+      "client": "Ayuntamiento de Zaragoza",
+      "description": "Reurbanización del tramo peatonal del Paseo de la Independencia con adoquines y losas de Piedra de Calatorao en acabado abujardado. El material proporciona antideslizamiento natural y resistencia ante el elevado tráfico peatonal de la principal arteria comercial de Zaragoza.",
+      "coords": [
+        41.6564,
+        -0.8792
+      ],
+      "specs": {
+        "Superficie": "3.200 m²",
+        "Material": "Caliza de Calatorao",
+        "Acabado": "Abujardado Fino",
+        "Formatos": "Adoquín 20×10×8 cm / Losa 60×40×4 cm",
+        "Cliente": "Ayuntamiento de Zaragoza"
+      },
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&w=1200&q=80",
+      "detail": "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 2,
+      "title": "Vestíbulo Hotel Palafox",
+      "category": "Edificación",
+      "location": "Zaragoza Centro",
+      "year": "2015",
+      "client": "Grupo Palafox",
+      "description": "Pavimentación interior del vestíbulo y salas de conferencias del Hotel Palafox con grandes losas de Piedra de Calatorao pulida. El acabado espejo resalta el negro profundo del material y sus características vetas, creando un ambiente de lujo y sofisticación acorde al nivel del establecimiento.",
+      "coords": [
+        41.6537,
+        -0.8820
+      ],
+      "specs": {
+        "Superficie": "850 m²",
+        "Material": "Caliza Negra de Calatorao Primera",
+        "Acabado": "Pulido Espejo",
+        "Formatos": "Losa 90×60×3 cm",
+        "Cliente": "Grupo Palafox"
+      },
+      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&w=1200&q=80",
+      "detail": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 3,
+      "title": "Fachada Vivienda Unifamiliar",
+      "category": "Residencial",
+      "location": "Urbanización Montecanal, Zaragoza",
+      "year": "2021",
+      "client": "Particular",
+      "description": "Revestimiento de fachada exterior de vivienda unifamiliar mediante placas de Piedra de Calatorao apomazadas fijadas mediante anclaje oculto. La tonalidad gris-negra del material confiere una estética contemporánea y premium que combina perfectamente con carpinterías metálicas y vidrio.",
+      "coords": [
+        41.6210,
+        -0.9380
+      ],
+      "specs": {
+        "Superficie": "320 m²",
+        "Material": "Caliza de Calatorao Seleccionada",
+        "Acabado": "Apomazado Mate",
+        "Espesor": "3 cm con anclaje oculto",
+        "Cliente": "Particular"
+      },
+      "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+      "detail": "https://images.unsplash.com/photo-1541888946425-d81bb19240f5?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 4,
+      "title": "Restauración Casco Histórico",
+      "category": "Rehabilitación",
+      "location": "Casco Histórico, Zaragoza",
+      "year": "2019",
+      "client": "Consorcio de Zaragoza",
+      "description": "Rehabilitación integral del pavimento exterior de varias calles del casco histórico de Zaragoza sustituyendo el pavimento deteriorado por nuevas losas de Piedra de Calatorao envejecida. El acabado cepillado/envejecido recupera la estética original de la piedra histórica de la ciudad.",
+      "coords": [
+        41.6546,
+        -0.8773
+      ],
+      "specs": {
+        "Superficie": "1.500 m²",
+        "Material": "Caliza de Calatorao",
+        "Acabado": "Envejecido / Cepillado",
+        "Uso": "Calles peatonales y plazoletas",
+        "Cliente": "Consorcio de Zaragoza"
+      },
+      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
+      "detail": "https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 5,
+      "title": "Sede Corporativa Ibercaja",
+      "category": "Edificación",
+      "location": "Plaza de Basilio Paraíso, Zaragoza",
+      "year": "2012",
+      "client": "Ibercaja",
+      "description": "Suministro e instalación de pavimento de recepción y pasillos principales de las oficinas corporativas de Ibercaja en Zaragoza. Grandes planchas pulidas en acabado espejo aportan solemnidad y representatividad al acceso principal del edificio.",
+      "coords": [
+        41.6512,
+        -0.8855
+      ],
+      "specs": {
+        "Superficie": "1.100 m²",
+        "Material": "Piedra de Calatorao Primera Calidad",
+        "Acabado": "Pulido Espejo",
+        "Formatos": "Losas 120×60×3 cm",
+        "Cliente": "Ibercaja"
+      },
+      "image": "https://images.unsplash.com/photo-1486325212027-8081e485255e?auto=format&fit=crop&w=1200&q=80",
+      "detail": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": 6,
+      "title": "Plaza del Pilar — Ampliación",
+      "category": "Urbanismo",
+      "location": "Plaza del Pilar, Zaragoza",
+      "year": "2008",
+      "client": "Ayuntamiento de Zaragoza",
+      "description": "Participación en el suministro de piedra para la rehabilitación y ampliación peatonal de la Plaza del Pilar. La Piedra de Calatorao abujardada en gran formato continúa la tradición histórica de este material en la plaza más emblemática de Zaragoza.",
+      "coords": [
+        41.6574,
+        -0.8787
+      ],
+      "specs": {
+        "Superficie": "2.800 m²",
+        "Material": "Caliza Negra de Calatorao",
+        "Acabado": "Abujardado Grueso",
+        "Formatos": "Losa 80×40×6 cm",
+        "Cliente": "Ayuntamiento de Zaragoza"
+      },
+      "image": "https://images.unsplash.com/photo-1510798831971-661eb04b3739?auto=format&fit=crop&w=1200&q=80",
+      "detail": "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1200&q=80"
+    }
+  ]
+}
